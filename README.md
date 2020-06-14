@@ -3,11 +3,11 @@
 
 
 ## Installation 
-``
+```
 Python 3.4
-
+```
 ## Usage
-`` 
+```
 run command 
 python junk-file-management.py
 Output
@@ -15,10 +15,10 @@ PRESS 1 TO ORGANIZE FILES BY EXTENSION
 PRESS 2 TO  ORGANIZE FILES BY DATE
 PRESS 3 TO  ORGANIZE FILES BY SIZE
 PRESS 4 TO EXIT OUR APPLICATION
-``
+```
 
 ## Learn 
-``
+```
 # I learn -
 >1. How to deal with os package 
 exmample-
@@ -37,7 +37,7 @@ i = int(math.floor(math.log(size, 1024)))
 p = math.pow(1024, i)
 s = round(size / p, 2)
 sizefile="%s %s" % (s, size_name[i])
-``
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
