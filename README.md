@@ -19,8 +19,7 @@ PRESS 4 TO EXIT OUR APPLICATION
 
 ## Learn 
 
-# I learn -
->How to deal with os package 
+How to deal with os package 
 ```
 exmample-
 import os.path, time
@@ -29,9 +28,9 @@ lis = os.listdir(dir_path)
 ```
 
 
->Here you can see how to find dir
+Here you can see how to find dir
 
->How to change byte to KB 
+How to change byte to KB 
 ```
 example
 units = {"B": 1, "KB": 10**3, "MB": 10**6, "GB": 10**9, "TB": 10**12}
