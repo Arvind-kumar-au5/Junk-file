@@ -18,19 +18,22 @@ PRESS 4 TO EXIT OUR APPLICATION
 ```
 
 ## Learn 
-```
+
 # I learn -
->1. How to deal with os package 
+>How to deal with os package 
+```
 exmample-
 import os.path, time
 dir_path = input("Enter Your directory :--")
 lis = os.listdir(dir_path)
+```
 
 
 >Here you can see how to find dir
 
->2. How to change byte to KB 
->example
+>How to change byte to KB 
+```
+example
 units = {"B": 1, "KB": 10**3, "MB": 10**6, "GB": 10**9, "TB": 10**12}
 size_name = ("B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB")
 i = int(math.floor(math.log(size, 1024)))
