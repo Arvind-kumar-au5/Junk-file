@@ -1,4 +1,4 @@
-#Junk File Mangemnet 
+## Junk File Mangemnet 
  Basically, as a lazy programmer my desktop is full of files (Junk Files), Junk file managemnet is a program for dealing with junk file
 
 
